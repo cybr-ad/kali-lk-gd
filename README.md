@@ -41,7 +41,7 @@ It replaces default muted blues and translucent terminal windows with a solid pi
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/cybr-ad/kali-beatify.git
+git clone https://github.com/cybr-ad/kali-lk-gd.git
 cd kali-lk-gd
 sudo bash kali-lk-gd.sh
 ```
