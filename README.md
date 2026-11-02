@@ -28,7 +28,7 @@ It replaces standard muted blues, pastel terminal tones, and distracting window 
 
 | Before (Default Kali Linux) | After (Pure RGB Theme) |
 | :---: | :---: |
-| ![Default Kali Linux Whiptail & QTerminal](before.png) | ![Pure RGB Theme Whiptail & QTerminal](after.png) |
+| ![Default Kali Linux Whiptail & QTerminal](./before.png) | ![Pure RGB Theme Whiptail & QTerminal](./after.png) |
 
 ### Technical Differences
 
